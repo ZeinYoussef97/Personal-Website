@@ -1,0 +1,11 @@
+.amazon-body {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 200px;
+}
+
+.amazon-container {
+    padding: 50px 100px;
+    background-color: #F1F0E8;
+}
