@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
-import { Header } from './header/header';
-import { Experience } from './experience/experience';
+import { Header } from './components/header/header';
+import { Experience } from './components/experience/experience';
 
 function App() {
   return (

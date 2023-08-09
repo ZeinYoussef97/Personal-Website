@@ -1,0 +1,11 @@
+.rocket-mortgage-body {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 200px;
+}
+
+.rocket-mortgage-container {
+    padding: 50px 100px;
+    background-color: #EEE0C9;
+}
